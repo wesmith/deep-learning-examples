@@ -9,4 +9,4 @@
 ### This is a 50-dimensional embedding space reduced to 2 dimensions by TSNE for plotting purposes. 
 ### This network achieves 98% accuracy.
 
-![alt text](MNIST/mnist_layer_fc1_acc_98%.png)
+![alt text](MNIST/mnist_layer_fc1_acc_98.png)
