@@ -12,21 +12,21 @@
 ### This is a 50-dimensional embedding space reduced to 2 dimensions by TSNE for plotting purposes. 
 ### This network achieves 98% accuracy.
 
-![alt text](MNIST/mnist_layer_fc1_acc_98.png)
+![alt text](MNIST/images/mnist_layer_fc1_acc_98.png)
 
 ## Confusion matrices of training and testing data, respectively. 
 ### The row is the digit truth, the column is the digit prediction. 
 ### The accuracy is the sum of the diagonals divided by the total number of cases.
 ### In this case, the test confusion is slightly better than the train confusion.
 
-![alt text](MNIST/train_confusion.png)
-![alt text](MNIST/test_confusion.png)
+![alt text](MNIST/images/train_confusion.png)
+![alt text](MNIST/images/test_confusion.png)
 
 
 ## Example digits that have been correctly classified:
-![alt text](MNIST/show_digits.png)
+![alt text](MNIST/images/show_digits.png)
 
 
 ## Example digits that have been incorrectly classified:
-![alt text](MNIST/show_errors.png)
+![alt text](MNIST/images/show_errors.png)
 
